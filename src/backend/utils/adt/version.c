@@ -26,7 +26,7 @@
 #endif
 
 #define POLARDB_COMPAT_VERSION_STRING \
-	"PostgreSQL 17.9 (PolarDB-compatible 17.9.1.0 build unknown) on " \
+	"PostgreSQL 17.9 (PolarDB 17.9.1.0 build unknown) on " \
 	POLARDB_COMPAT_ARCH "-linux-gnu"
 
 
